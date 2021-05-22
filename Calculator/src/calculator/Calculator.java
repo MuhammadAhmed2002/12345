@@ -16,6 +16,8 @@ public class Calculator {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        NewJFrame J = new NewJFrame();
+        J.setVisible(true);
     }
     
 }
